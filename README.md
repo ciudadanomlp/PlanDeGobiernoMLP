@@ -8,3 +8,5 @@
 ### 3. [Plan de Gobieron (1/2)](./3.plan_de_gobierno_1.md)
 ### 4. [Plan de Gobieron 2/2](./4.plan_de_gobierno_2.md)
 ### 5. [Nota Final](./5.nota_final.md)
+
+Disclaimer: No tengo ninguna relacion con el MLP, solo decidi copiar su plan de gobierno a un formato más amigable que los pdf, el contenido de estos documentos son iguales al pdf.
