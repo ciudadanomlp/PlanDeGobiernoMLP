@@ -9,4 +9,4 @@
 ### 4. [Plan de Gobieron 2/2](./4.plan_de_gobierno_2.md)
 ### 5. [Nota Final](./5.nota_final.md)
 
-Disclaimer: No tengo ninguna relacion con el MLP, solo decidi copiar su plan de gobierno a un formato más amigable que los pdf, el contenido de estos documentos son iguales al pdf.
+Disclaimer: No tengo ninguna relación con el MLP, solo decidí copiar su plan de gobierno a un formato más amigable que los pdf, el contenido de estos documentos son iguales al [PDF que el MLP publicó](./MLP_PROGRAMA_GENERAL_Y_PLAN_DE_GOBIERNO.pdf).
